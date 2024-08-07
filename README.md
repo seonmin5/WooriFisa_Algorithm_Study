@@ -15,15 +15,11 @@
 - 오프라인 회의로 코드 리뷰 진행
 - 취업시 탈퇴 가능
 
-<br/>
-
 ## 📚 진행상황
-|  | 선민 | 창영 | 혜민 |
-| --- | --- | --- | --- |
-| 1주차 | Lv.0 48문제 | Lv.2 2문제 | Lv.0 25문제 |
-| 2주차 | Lv.0  | Lv.2  | Lv.0  |
-
-<br/>
+|  | 찬웅 | 현아 | 선민 | 창영 | 혜민 |
+| --- | --- | --- | --- | --- | --- |
+| 1주차 | Lv1.7문제 | Lv.0 50문제 | Lv.0 48문제 | Lv2.2문제 | Lv0.25문제 |
+| 2주차 |  |  |  |  |  |
 
 ## ☑️ 규칙
 1. **빠지지 말자, 지각하지 말자**
@@ -46,16 +42,20 @@
 ## 👨‍👩‍👧‍👦 스티디원
 <table>
   <tr>
+    <td height="140px" align="center"> <a href="https://github.com/AnChanUng"> <img src="https://avatars.githubusercontent.com/u/104750924?v=4" width="140px" />
+      <br /> 안찬웅</a></td>
     <td height="140px" align="center"> <a href="https://github.com/HyeminKim-kr"> <img src="https://avatars.githubusercontent.com/u/58822591?v=4" width="140px" />
       <br /> 김혜민</a></td>
     <td height="140px" align="center"> <a href="https://github.com/seonmin5"> <img src="https://avatars.githubusercontent.com/u/82851869?v=4" width="140px" />
       <br /> 오선민</a></td>
     <td height="140px" align="center"> <a href="https://github.com/kimchang0"> <img src="https://avatars.githubusercontent.com/u/64997303?v=4" width="140px" />
       <br /> 김창영</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/gusdk19"> <img src="https://avatars.githubusercontent.com/u/128590006?v=4" width="140px" />
+      <br /> 이현아</a></td>
   </tr>
 </table>
 
-<br />
+<br/>
 
 ## ❓ 참여 방법
 1. 이 저장소를 fork 한다.
@@ -67,10 +67,11 @@
 ```
 git commit -m "X주차: 본인이름 / 날짜 / [문제제목] / 시간"
 
-ex) 1주차 / 김창영 / 07.19 / bfs와dfs / 125ms
+ex) 1주차 / 안찬웅 / 07.19 / bfs와dfs / 125ms
 ```
 
 ## PR 규칙
 [week 1주차] 제출합니다.
 
 <br/>
+
