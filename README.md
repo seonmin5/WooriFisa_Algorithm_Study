@@ -1,12 +1,12 @@
 # 우리FISA 3기 코테스터디
 기간: 2024.07.19 ~ 2024.12.18
 
-<br/>
+<br />
 
 ## ✏️ 사용 언어
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br/>
+<br />
 
 ## 📚 스터디 진행 방식
 - 날짜: 월, 수, 금 
@@ -15,11 +15,15 @@
 - 오프라인 회의로 코드 리뷰 진행
 - 취업시 탈퇴 가능
 
+<br />
+
 ## 📚 진행상황
-|  | 찬웅 | 현아 | 선민 | 창영 | 혜민 |
-| --- | --- | --- | --- | --- | --- |
-| 1주차 | Lv1.7문제 | Lv.0 50문제 | Lv.0 48문제 | Lv2.2문제 | Lv0.25문제 |
+|  | 선민 | 창영 | 혜민 |
+| --- | --- | --- | --- |
+| 1주차 | Lv.0 48문제 | Lv2.2문제 | Lv0.25문제 |
 | 2주차 |  |  |  |  |  |
+
+<br />
 
 ## ☑️ 규칙
 1. **빠지지 말자, 지각하지 말자**
@@ -37,25 +41,21 @@
         1. 발표자 선정 기준: 자유
         2. 진행 방식: 문제 푼 방법 공유
 
-<br/>
+<br />
 
 ## 👨‍👩‍👧‍👦 스티디원
 <table>
   <tr>
-    <td height="140px" align="center"> <a href="https://github.com/AnChanUng"> <img src="https://avatars.githubusercontent.com/u/104750924?v=4" width="140px" />
-      <br /> 안찬웅</a></td>
     <td height="140px" align="center"> <a href="https://github.com/HyeminKim-kr"> <img src="https://avatars.githubusercontent.com/u/58822591?v=4" width="140px" />
       <br /> 김혜민</a></td>
     <td height="140px" align="center"> <a href="https://github.com/seonmin5"> <img src="https://avatars.githubusercontent.com/u/82851869?v=4" width="140px" />
       <br /> 오선민</a></td>
     <td height="140px" align="center"> <a href="https://github.com/kimchang0"> <img src="https://avatars.githubusercontent.com/u/64997303?v=4" width="140px" />
       <br /> 김창영</a></td>
-    <td height="140px" align="center"> <a href="https://github.com/gusdk19"> <img src="https://avatars.githubusercontent.com/u/128590006?v=4" width="140px" />
-      <br /> 이현아</a></td>
   </tr>
 </table>
 
-<br/>
+<br />
 
 ## ❓ 참여 방법
 1. 이 저장소를 fork 한다.
@@ -67,11 +67,13 @@
 ```
 git commit -m "X주차: 본인이름 / 날짜 / [문제제목] / 시간"
 
-ex) 1주차 / 안찬웅 / 07.19 / bfs와dfs / 125ms
+ex) 1주차 / 김창영 / 07.19 / bfs와dfs / 125ms
 ```
+
+<br />
 
 ## PR 규칙
 [week 1주차] 제출합니다.
 
-<br/>
+<br />
 
