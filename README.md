@@ -55,7 +55,7 @@
       <br /> 오선민</a></td>
     <td height="140px" align="center"> <a href="https://github.com/kimchang0"> <img src="https://avatars.githubusercontent.com/u/64997303?v=4" width="140px" />
       <br /> 김창영</a></td>
-    <td height="140px" align="center"> <a href="https://github.com/summmer12126"> <img src="https://avatars.githubusercontent.com/u/64997303?v=4" width="140px" />
+    <td height="140px" align="center"> <a href="https://github.com/summmer12126"> <img src="https://avatars.githubusercontent.com/u/174290672?v=4" width="140px" />
       <br /> 이하영</a></td>
   </tr>
 </table>
