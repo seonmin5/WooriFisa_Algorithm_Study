@@ -1,20 +1,15 @@
-from itertools import combinations
-import time
 def solution(elements):
-    answer = 0
-    res = set()
-    for i in range(1, len(elements) + 1):
-        for j in set(combinations(elements, i)):
-            if len(j) == 1:
-                res.add(j[0])
-            elif abs(elements.index(j[0]) -  elements.index(j[1])) <= 1:
-                res.add(sum(j))
-                
-        print(res)
-        time.sleep(10)
-        
-    print(len(res))
-    return answer
+    n = len(elements)
+    extended_elements = elements * 2
+    
+    sum_set = set()
+    
+    for length in range(1, n+1):
+        for start in range(n):
+            subarray_sum = sum(extended_elements[start:start+length])
+            sum_set.add(subarray_sum)
+    
+    return len(sum_set)
 
 if __name__ == "__main__":
     print(solution([7,9,1,1,4]))
